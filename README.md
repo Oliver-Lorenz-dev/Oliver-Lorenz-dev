@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Oliver-Lorenz-dev
-- 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning C++
+- 👀 Bioinformatician
 - 📫 How to reach me oliverlorenz.business@gmail.com
 
 <!---
