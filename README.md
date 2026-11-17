@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Oliver-Lorenz-dev
-- 👀 Senior Bioinformatician at the Wellcome Sanger Institute (Bentley Group)
+- 👀 Bioinformatics PhD student in the Wheatley lab at Queen's University Belfast
 - 📫 
 
 <!---
